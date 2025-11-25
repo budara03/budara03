@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budara03&label=Profile%20views&color=0e75b6&style=flat" alt="budara03" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=budara03" alt="budara03" /></a> </p>
+
 - 🌱 I’m currently learning **cloud technologies, AI integration, and full-stack development.**
 
 - 👀 I’m interested in **Software Engineering,Project Management ,Mobile & Web Development.**
