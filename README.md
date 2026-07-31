@@ -134,18 +134,10 @@ Docker, JWT security, cloud deployment on AWS, and writing calmer, cleaner code.
 <table> <tr><td>🚀</td><td>Ship a production-ready full stack app</td></tr> <tr><td>💼</td><td>Land a Software Engineering internship</td></tr> <tr><td>☁️</td><td>Learn AWS cloud deployment end-to-end</td></tr> <tr><td>🌍</td><td>Make a first open-source contribution</td></tr> </table> <br/>
 
 ## ✦ GitHub in numbers
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=budara03&show_icons=true&hide_border=true&bg_color=F2DEC7&title_color=CF7D65&icon_color=6B6D43&text_color=5C4033"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budara03&layout=compact&hide_border=true&bg_color=F2DEC7&title_color=CF7D65&text_color=5C4033"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=budara03&hide_border=true&background=F2DEC7&stroke=CF7D65&ring=CF7D65&fire=CF7D65&currStreakLabel=6B6D43&sideLabels=6B6D43&currStreakNum=5C4033&sideNums=5C4033&dates=ABA66F"/> </div> <br/> <div align="center">
 ## ✦ Say hello
 
 📍 Sri Lanka  ·  📧 YOUR_EMAIL  ·  🔗 LinkedIn  ·  🌐 Portfolio
-
-<sub>Thanks for stopping by — always up for a chat about code, coffee, or clean architecture. ✦</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&color=0:F2DEC7,50:E1B8A2,100:CF7D65"/> </div>
 
 <sub>Thanks for stopping by — always up for a chat about code, coffee, or clean architecture. ✦</sub>
 
