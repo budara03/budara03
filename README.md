@@ -1,17 +1,5 @@
-<h1 align="center">Hi 👋, I'm Risini Budara</h1>
-👋 Hi, I'm Risini Budara
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Applications;Building+Modern+Full-Stack+Solutions;Always+Learning+•+Always+Creating;Welcome+to+My+GitHub!" />
-
-<br>
-
-
-
-
-
-
-
-</div>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:0B0F19,50:4C1D95,100:F59E0B&text=RISINI%20BUDARA&fontColor=F8FAFC&fontSize=46&fontAlignY=42&desc=Software%20Engineer%20in%20the%20making%20·%20MERN%20Stack&descAlignY=60&descSize=16&animation=fadeIn"/>
+  
 # 💫 About Me:
 - 👩🏻‍💻 **Software Engineering student** sharing my journey and learnings in tech
 - 👩🏻‍🎓 Studying **Software Engineering** at **SLIIT, Sri Lanka .**
