@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Risini Budara</h1>
-<h3 align="center">Welcome to my GitHub profile! I’m a passionate developer and tech enthusiast focused on creating meaningful projects and learning new technologies every day.</h3>
+👋 Hi, I'm Risini Budara
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=RISINI%20BUDARA&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=62&descSize=16"/>
+
+<br>
+
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&width=900&lines=Software+Engineering+Undergraduate+%40+SLIIT;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Always+Learning+Something+New+🚀"/>
+
+</div>
 
 # 💫 About Me:
 - 👩🏻‍💻 **Software Engineering student** sharing my journey and learnings in tech
