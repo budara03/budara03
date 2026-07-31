@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:F2DEC7,50:E1B8A2,100:CF7D65&text=RISINI%20BUDARA&fontColor=5C4033&fontSize=46&fontAlignY=42&desc=Software%20Engineering%20%20|%20%20FullStack%20Development&descAlignY=60&descSize=16&animation=fadeIn"/> <br/>
 
 <a href="www.linkedin.com/in/risini-budara"><img src="https://img.shields.io/badge/LinkedIn-F2DEC7?style=flat-square&logo=linkedin&logoColor=6B6D43"/>
-</a> <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-F2DEC7?style=flat-square&logo=github&logoColor=6B6D43&labelColor=F2DEC7"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F2DEC7?style=flat-square&logo=gmail&logoColor=CF7D65&labelColor=F2DEC7"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F2DEC7?style=flat-square&logo=vercel&logoColor=6B6D43&labelColor=F2DEC7"/></a>
+</a> <a href="https://github.com/budara03"><img src="https://img.shields.io/badge/GitHub-F2DEC7?style=flat-square&logo=github&logoColor=6B6D43&labelColor=F2DEC7"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F2DEC7?style=flat-square&logo=gmail&logoColor=CF7D65&labelColor=F2DEC7"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F2DEC7?style=flat-square&logo=vercel&logoColor=6B6D43&labelColor=F2DEC7"/></a>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=CF7D65&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Full+Stack+Developer+%7C+MERN+Enthusiast;Turning+Coffee+Into+Clean+Code+%E2%98%95;Currently+building+Elegant+Eats+%F0%9F%8D%BD%EF%B8%8F"/> </div> <br/>
