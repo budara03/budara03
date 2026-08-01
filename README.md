@@ -140,8 +140,7 @@ Docker, JWT security, cloud deployment on AWS, and writing calmer, cleaner code.
 
 <div align="center">
 
-<img height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=budara03&show_icons=true&hide_border=true&title_color=CF7D65&icon_color=CF7D65&text_color=5C4033&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=budara03&bg_color=00000000&color=4B3621&line=A77F60&point=D9C2A3&area=true&hide_border=true"/>
 
 </div>
 
