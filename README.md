@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:F2DEC7,50:E1B8A2,100:CF7D65&text=RISINI%20BUDARA&fontColor=5C4033&fontSize=46&fontAlignY=42&desc=Software%20Engineering%20%20|%20%20FullStack%20Development&descAlignY=60&descSize=16&animation=fadeIn"/> <br/><br/><br/>
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F2DEC7,50:E1B8A2,100:CF7D65&text=RISINI%20BUDARA&fontColor=5C4033&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn&font=Montserrat"/>
+ <br/>
 
 <a href="https://linkedin.com/in/risini-budara"> <img src="https://img.shields.io/badge/LinkedIn-F2DEC7?style=flat-square&logo=linkedin&logoColor=6B6D43" /></a> <a href="https://github.com/budara03"><img src="https://img.shields.io/badge/GitHub-F2DEC7?style=flat-square&logo=github&logoColor=6B6D43&labelColor=F2DEC7"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F2DEC7?style=flat-square&logo=gmail&logoColor=CF7D65&labelColor=F2DEC7"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F2DEC7?style=flat-square&logo=vercel&logoColor=6B6D43&labelColor=F2DEC7"/></a>
 <a href="https://instagram.com/budara03">
@@ -134,6 +136,13 @@ Docker, JWT security, cloud deployment on AWS, and writing calmer, cleaner code.
 <table> <tr><td>🚀</td><td>Ship a production-ready full stack app</td></tr> <tr><td>💼</td><td>Land a Software Engineering internship</td></tr> <tr><td>☁️</td><td>Learn AWS cloud deployment end-to-end</td></tr> <tr><td>🌍</td><td>Make a first open-source contribution</td></tr> </table> <br/>
 
 ## ✦ GitHub in numbers
+
+<div align="center">
+
+<img height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=budara03&show_icons=true&hide_border=true&title_color=CF7D65&icon_color=CF7D65&text_color=5C4033&bg_color=00000000"/>
+
+</div>
 
 ## ✦ Say hello
 
