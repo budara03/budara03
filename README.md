@@ -15,50 +15,76 @@
 </div>
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=CF7D65&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;SE+Intern+%40+Evoke+Labs;Full+Stack+Developer+%7C+MERN+Enthusiast;Turning+Coffee+Into+Clean+Code+%E2%98%95;Currently+building+Elegant+Eats+%F0%9F%8D%BD%EF%B8%8F"/> </div> <br/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Intern+Software+Engineer+%40+Evoke+Labs;Full+Stack+Developer+%7C+MERN+Enthusiast;Turning+Coffee+Into+Clean+Code;Currently+Building+Elegant+Eats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5E3C&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+at+SLIIT;Intern+Software+Engineer+at+Evoke+Labs;Full+Stack+Developer+%7C+MERN+Enthusiast;Building+Scalable+Web+Applications;Exploring+Cloud+%7C+Microservices+%7C+AI+Solutions;Turning+Coffee+Into+Clean+Code;Currently+Building+Elegant+Eats"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;Intern+Software+Engineer+%40+Evoke+Labs;Full+Stack+Developer+%7C+MERN+Stack+Specialist;Building+Scalable+Web+Applications;Exploring+Cloud+%7C+Microservices+%7C+AI+Solutions;Crafting+Clean+Code+With+Coffee;Currently+Building+Elegant+Eats"/>
+</div>
 
 </div>
 
 <br/>
+
 ## ✦ A little about me
 
-I'm Risini 👩🏻‍💻, a **Final Year Software Engineering undergraduate** at **SLIIT**. I enjoy turning ideas into reliable digital solutions designing clean APIs, building scalable backend systems, creating intuitive user interfaces, and exploring technologies that make software smarter and more efficient.
+> **I'm Risini** 👩🏻‍💻,
+> - 🎓 Final-year **Software Engineering** undergraduate  at **SLIIT**
+> - 💼 Interning as a **Software Engineer Intern** @ **Evoke Labs** and working on building scalable backend solutions, developing full-stack features, and contributing to real-world software projects
+> - 🌱 Currently deepening my skills in **Backend Development/Large language Model /Robotics /ML and cloud technologies**
+> - 👯 Open to collaborating on **open-source** projects & **hackathons**
+> - ⚡ Fun fact: My best ideas usually appear when I'm relaxing with a cup of coffee 
 
-I’m passionate about **full-stack development**, **software architecture**, **cloud technologies**, and **AI-powered solutions**. I love learning by building real world projects, improving my engineering practices, and transforming complex problems into simple, maintainable solutions.
+## ✦  Featured Projects
 
+<table> 
+  <tr> 
+    <td width="50%" valign="top">
 
-## ✦ What I'm building
-<table> <tr> <td width="33%" valign="top">
+⌚ **Student Safety Management System** <br/><sub>Real-Time GPS & Health Monitoring · IoT & Web/Mobile</sub>
 
-🍽️ Elegant Eats <br/><sub>Restaurant Management System · MERN</sub>
+Integrated with an IoT safety watch for real-time tracking, health monitoring, and daily productivity tools.
 
-Full-stack platform with secure auth and role-based operations.
+<code>React</code> 
+<code>Node.js</code> 
+<code>Firebase</code> 
+<code>IoT Sensors</code> 
+<code>GPS</code> 
+<code>Scrum</code>
 
-JWT Auth Email OTP RBAC MongoDB Atlas REST API
+</td> 
+    <td width="50%" valign="top">
 
-</td> <td width="33%" valign="top">
+🍰 **SweetBliss** <br/><sub>Online Cake Ordering System · MERN Stack</sub>
 
-🏥 Smart Healthcare Platform <br/><sub>Appointments & Telemedicine</sub>
+Responsive web app for custom cake browsing, ordering, integrated payments, and delivery tracking.
 
-AI-assisted booking system with an event-driven backend.
+`React` `Node.js` `MongoDB` `TailwindCSS` `REST API` `Postman`
 
-React Node.js PostgreSQL Kafka Docker
+</td> 
+  </tr> 
+  <tr> 
+    <td width="50%" valign="top">
 
-</td> <td width="33%" valign="top">
+☀️ **Solar Education & Assistance App** <br/><sub>Renewable Energy Guidance · Mobile App</sub>
 
-💰 Personal Finance Tracker <br/><sub>Expense & income management</sub>
+Mobile app educating rural households on solar setups through interactive tutorials and resource management tools.
 
-A clean dashboard for everyday money tracking.
+`React Native` `Node.js` `Expo` `Firebase` `Mobile App`
 
-Auth Dashboard Analytics Responsive UI
+</td> 
+    <td width="50%" valign="top">
 
-</td> </tr> </table> <br/>
+🛡️ **Online Life Insurance Platform** <br/><sub>Policy & Claims Management System · Web Platform</sub>
+
+Responsive platform managing insurance policies, claims, payments, and customer records with smooth UX.
+
+`PHP` `JavaScript` `HTML5` `CSS3` `MySQL`
+
+</td> 
+  </tr> 
+</table>
+
+<br/>
 
 ## ✦ Toolbox
 
