@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -9,21 +9,21 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: budara03
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=4B3621&color_dots=F5E6D3,CDB885,A77F60,8B5E3C,4B3621
+
+      - name: Publish Snake
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
