@@ -1,5 +1,6 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F2DEC7,50:E1B8A2,100:CF7D65&text=RISINI%20BUDARA&fontColor=5C4033&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn&font=Montserrat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:A77F60,50:A77F60,100:8B5E3C&text=Risini%20Budara&fontColor=FFFFFF&fontSize=36&fontAlignY=42&desc=Intern%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=14&animation=fadeIn&font=Playfair%20Display&width=700"/>
+
  <br/>
 
 <a href="https://linkedin.com/in/risini-budara"> <img src="https://img.shields.io/badge/LinkedIn-F2DEC7?style=flat-square&logo=linkedin&logoColor=6B6D43" /></a> <a href="https://github.com/budara03"><img src="https://img.shields.io/badge/GitHub-F2DEC7?style=flat-square&logo=github&logoColor=6B6D43&labelColor=F2DEC7"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F2DEC7?style=flat-square&logo=gmail&logoColor=CF7D65&labelColor=F2DEC7"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F2DEC7?style=flat-square&logo=vercel&logoColor=6B6D43&labelColor=F2DEC7"/></a>
