@@ -156,23 +156,26 @@ Responsive platform managing insurance policies, claims, payments, and customer 
 
 <br/>
 
-✦ Currently
-<table> <tr> <td width="50%" valign="top">
+## ✦ Currently Working on
+🍰 **Eat My Cake** <br/><sub>Custom Cake Ordering Platform · MERN Stack</sub>
 
-🌤 Building
+Modern web application for browsing, customizing, and ordering handcrafted cakes with a responsive user experience.
 
-Full-stack MERN apps, REST APIs with clean architecture, and backends that lean toward microservices.
-
-</td> <td width="50%" valign="top">
-
-🌱 Learning
-
-Docker, JWT security, cloud deployment on AWS, and writing calmer, cleaner code.
-
-</td> </tr> </table> <br/>
-
+`React` `Node.js` `Express.js` `MongoDB` `TailwindCSS`
+<br/>
 ## ✦ Looking ahead to 2026
-<table> <tr><td>🚀</td><td>Ship a production-ready full stack app</td></tr> <tr><td>💼</td><td>Land a Software Engineering internship</td></tr> <tr><td>☁️</td><td>Learn AWS cloud deployment end-to-end</td></tr> <tr><td>🌍</td><td>Make a first open-source contribution</td></tr> </table> <br/>
+```text
+☕ Brewing my Software Engineering journey...
+
+💼 Internship Experience      ████████████████████ 100%
+💻 Full-Stack Development     ████████████████░░░░  80%
+⚙️ Backend Development        █████████████████░░░  85%
+🤖 AI & LLM Engineering       ██████████░░░░░░░░░░  50%
+☁️ AWS & Cloud                ████████░░░░░░░░░░░░  40%
+🌍 Open Source                ██████░░░░░░░░░░░░░░  30%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ## ✦ GitHub in numbers
 
@@ -181,11 +184,26 @@ Docker, JWT security, cloud deployment on AWS, and writing calmer, cleaner code.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=budara03&bg_color=00000000&color=4B3621&line=A77F60&point=D9C2A3&area=true&hide_border=true"/>
 
 </div>
+<div align="center">
 
-## ✦ Say hello
+<div style="display: flex; justify-content: center; gap: 20px;">
 
-📍 Sri Lanka  ·  📧 YOUR_EMAIL  ·  🔗 LinkedIn  ·  🌐 Portfolio
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=budara03&show_icons=true&hide_border=true&bg_color=F5E6D3&title_color=8B5E3C&text_color=4B3621&icon_color=CDB885" />
 
-<sub>Thanks for stopping by — always up for a chat about code, coffee, or clean architecture. ✦</sub>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=budara03&background=F5E6D3&ring=8B5E3C&fire=CDB885&currStreakLabel=4B3621&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&color=0:F2DEC7,50:E1B8A2,100:CF7D65"/> </div>
+</div>
+
+<br/>
+
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=budara03&layout=compact&langs_count=8&hide_border=true&bg_color=F5E6D3&title_color=8B5E3C&text_color=4B3621"/>
+
+</div>
+
+<div align="center">
+<sub>Thanks for stopping by always up for a chat about code, coffee, or clean architecture.</sub>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5E3C,50:8B5E3C,100:8B5E3C"/>
+
+</div>
