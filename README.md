@@ -1,15 +1,31 @@
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:A77F60,50:A77F60,100:8B5E3C&text=Risini%20Budara&fontColor=FFFFFF&fontSize=36&fontAlignY=42&desc=Intern%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=14&animation=fadeIn&font=Playfair%20Display&width=700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:8B5E3C,50:8B5E3C,100:8B5E3C&text=Risini%20Budara&fontColor=FFFFFF&fontSize=36&fontAlignY=42&desc=Intern%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=14&animation=fadeIn&font=Playfair%20Display&width=700"/>
 
  <br/>
 
-<a href="https://linkedin.com/in/risini-budara"> <img src="https://img.shields.io/badge/LinkedIn-F2DEC7?style=flat-square&logo=linkedin&logoColor=6B6D43" /></a> <a href="https://github.com/budara03"><img src="https://img.shields.io/badge/GitHub-F2DEC7?style=flat-square&logo=github&logoColor=6B6D43&labelColor=F2DEC7"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F2DEC7?style=flat-square&logo=gmail&logoColor=CF7D65&labelColor=F2DEC7"/></a> <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-F2DEC7?style=flat-square&logo=vercel&logoColor=6B6D43&labelColor=F2DEC7"/></a>
-<a href="https://instagram.com/budara03">
-  <img src="https://img.shields.io/badge/Instagram-F2DEC7?style=flat-square&logo=instagram&logoColor=E4405F" />
+<div align="center">
+
+<a href="https://linkedin.com/in/risini-budara">
+<img src="https://img.shields.io/badge/LINKEDIN-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-<a href="https://facebook.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Facebook-F2DEC7?style=flat-square&logo=facebook&logoColor=1877F2" />
+&nbsp;
+
+<a href="https://github.com/budara03">
+<img src="https://img.shields.io/badge/GITHUB-A77F60?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-CDB885?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5E3C?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=CF7D65&center=true&vCenter=true&width=780&lines=Software+Engineering+Undergraduate+%40+SLIIT;SE+Intern+%40+Evoke+Labs;Full+Stack+Developer+%7C+MERN+Enthusiast;Turning+Coffee+Into+Clean+Code+%E2%98%95;Currently+building+Elegant+Eats+%F0%9F%8D%BD%EF%B8%8F"/> </div> <br/>
